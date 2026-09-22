@@ -1,0 +1,1 @@
+This file added to functions in python project
